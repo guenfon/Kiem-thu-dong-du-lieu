@@ -1,0 +1,7 @@
+Input:
+a = 5
+b = 3
+Phép tính: Trừ (-)
+Hành động: Thực hiện phép trừ a - b
+Expected Output: 2
+Actual Output: 2

@@ -1,0 +1,7 @@
+Input:
+a = 5
+b = 3
+Phép tính: Cộng (+)
+Hành động: Thực hiện phép cộng a + b
+Expected Output: 8
+Actual Output: 8
